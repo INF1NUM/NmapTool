@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NmapTool": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Anton\\Documents\\temp\\nmap.xml\""
+    }
+  }
+}
